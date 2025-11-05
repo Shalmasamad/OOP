@@ -14,7 +14,7 @@ public class Duplicate {
     }
 
     public static void main(String[] args) {
-        System.out.println(CDuplicate(new int[]{1,2,3,3}));
+        System.out.println(CDuplicate(new int[]{1,2,3,}));
         System.out.println(CDuplicate(new int[]{1,7,3,4}));
     }
 }
