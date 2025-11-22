@@ -1,0 +1,2 @@
+Thu Nov 06 20:14:44 IST 2025 - Added Book: Book ID: 2468798 | Title: Java | Author: NNN XNBBVH | Status: Available
+Thu Nov 06 20:19:41 IST 2025 - Added Book: Book ID: 434524365 | Title: sfgh | Author: hgfghbn | Status: Available
